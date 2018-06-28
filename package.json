@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "docs:serve": "http-server -p 8000 docs/.vuepress/dist"
+  },
+  "devDependencies": {
+    "markdown-it-footnote": "^3.0.1",
+    "vuepress": "^0.5.1"
+  },
+  "dependencies": {}
+}
