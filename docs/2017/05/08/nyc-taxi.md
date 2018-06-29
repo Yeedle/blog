@@ -1,7 +1,7 @@
 ---
 title: "NYC's Taxi Flow"
 author: "Yeedle"
-date: "2017-05-08 09:50:00 EST"
+date: "2017-05-08"
 locale: "en-US"
 dateFormat: { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
 categories: [NYC, taxi, R, tidyverse, sf, tweenr, fuzzyjoin, ggplot2, gganimate, dplyr, tidyr]
